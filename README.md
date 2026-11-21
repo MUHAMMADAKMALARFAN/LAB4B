@@ -14,8 +14,8 @@ This lab practises storing data in JSON, loading it with the JavaScript
 | `jquery-dom.html` | jQuery versions of three native DOM operations |
 
 ## Live Pages
-- Books: https://muhammadakmalarfan.github.io/LAB4B/books.html
-- jQuery: https://muhammadakmalarfan.github.io/LAB4B/jquery-dom.html
+- Books: https://muhammadakmalarfan.github.io/LAB4B/books
+- jQuery: https://muhammadakmalarfan.github.io/LAB4B/jquery-dom
 
 ## How to Run
 
